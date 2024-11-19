@@ -7,12 +7,6 @@ The "Red Team Capstone" project is a comprehensive technical report developed by
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Comprehensive simulation of offensive security operations.
